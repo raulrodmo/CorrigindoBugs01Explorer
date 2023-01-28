@@ -11,8 +11,16 @@ Repositório do 1º defafio da turma 09 do explorer, o objetivo era debugar o c�
 
 <br>
 
+### Before:
+
 <p align="center">
-  <img alt="Móveis customizados" src=".github/preview.jpg" width="100%">
+  <img src="./github/preview_before.jpg" width="100%"/>
+</p>
+
+### After:
+
+<p align="center">
+  <img src="./github/preview_after.jpg" width="100%"/>
 </p>
 
 ## 🚀 Technologies
